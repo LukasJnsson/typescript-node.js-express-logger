@@ -13,19 +13,19 @@
 
 ## Installation
 ```sh
-npm i express-logger
+npm i express-loggerr
 ```
 
 ## Import 
 ### (ES Modules)
 ```js
-import { expressLogger } from 'express-logger';
+import { expressLogger } from 'express-loggerr';
 ```
 
 ## Import 
 ### (CommonJS Modules)
 ```js
-const { expressLogger } = require('express-logger');
+const { expressLogger } = require('express-loggerr');
 ```
 
 ## Implementation

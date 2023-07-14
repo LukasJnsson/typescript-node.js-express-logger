@@ -1,6 +1,6 @@
 {
-  "name": "express-logger",
-  "version": "1.0.0",
+  "name": "express-loggerr",
+  "version": "1.1.1",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
   "exports": {
